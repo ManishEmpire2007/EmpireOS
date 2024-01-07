@@ -1,16 +1,3 @@
-# EmpireOS - Simple OS UI
-
-
-
-## Getting Started
-
-To get started with EmpireOS on your local machine, follow these simple steps:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/EmpireOS.git
-
-
 ## EmpireOS
 
 EmpireOS is a lightweight and user-friendly operating system user interface (UI) built using Create React App (CRA) and Tailwind CSS.
